@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+*/build/
+*/.gradle/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Built JARs (attached as release assets, not committed)
+releases/

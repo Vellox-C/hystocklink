@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "hystocklink",
+  "version": "${version}",
+  "name": "HystockLink",
+  "description": "Activate your hystock.shop account purchase directly in-game.",
+  "authors": [
+    "Vellox"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.hystocklink.HystockLinkClient"
+    ]
+  },
+  "accessWidener": "hystocklink.accesswidener",
+  "mixins": [
+    "hystocklink.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": ">=26.1",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
