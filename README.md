@@ -1,4 +1,4 @@
-# HyStock
+# HyStockLink
 
 A Fabric mod that lets you switch Minecraft accounts from the title screen without restarting the game.
 
@@ -22,7 +22,7 @@ The 26.1 JAR covers 26.1, 26.1.1, and 26.1.2.
 1. Install [Fabric Loader](https://fabricmc.net/use/installer/) for your MC version.
 2. Download the correct JAR for your version from the [releases page](https://github.com/Vellox-C/hystocklink/releases).
 3. Drop it into your `mods/` folder.
-4. Launch the game. The HyStock widget will appear on the title screen.
+4. Launch the game. The HyStockLink widget will appear on the title screen.
 
 ## Usage
 
