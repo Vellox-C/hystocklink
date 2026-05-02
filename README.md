@@ -31,7 +31,7 @@ Hold **Left Ctrl** and drag to reposition the widget. Position saves automatical
 | 26.1.1    | Fabric |
 | 26.1.2    | Fabric |
 
-The 26.1 JAR covers 26.1, 26.1.1, and 26.1.2 — one download works for all three.
+The 26.1 JAR covers 26.1, 26.1.1, and 26.1.2. One download works for all three.
 
 ## License
 
