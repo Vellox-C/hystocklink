@@ -9,7 +9,7 @@ A widget sits on the title screen. Paste your account token in, hit Activate, an
 ## Installation
 
 1. Install [Fabric API](https://modrinth.com/mod/fabric-api) for your MC version.
-2. Download the JAR for your version from [Modrinth](https://modrinth.com/mod/hystocklink/versions) or the [releases page](https://github.com/Vellox-C/hystocklink/releases).
+2. Download the JAR for your version from [Modrinth](https://modrinth.com/mod/hystocklink/versions) or the [GitHub releases page](https://github.com/Vellox-C/hystocklink/releases).
 3. Drop it into your `mods/` folder.
 
 ## Usage
