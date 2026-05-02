@@ -20,8 +20,6 @@ A widget sits on the title screen. Paste your account token in, hit Activate, an
 
 Hold **Left Ctrl** and drag to reposition the widget. Position saves automatically.
 
-The 26.1 JAR covers 26.1, 26.1.1, and 26.1.2.
-
 ## Supported versions
 
 | Minecraft | Loader |
@@ -30,6 +28,10 @@ The 26.1 JAR covers 26.1, 26.1.1, and 26.1.2.
 | 1.21.10   | Fabric |
 | 1.21.11   | Fabric |
 | 26.1      | Fabric |
+| 26.1.1    | Fabric |
+| 26.1.2    | Fabric |
+
+The 26.1 JAR covers 26.1, 26.1.1, and 26.1.2 — one download works for all three.
 
 ## License
 
